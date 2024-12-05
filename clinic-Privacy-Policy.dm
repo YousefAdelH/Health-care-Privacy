@@ -1,27 +1,71 @@
-Privacy Policy
 
-Introduction
-This Privacy Policy explains the data practices for the Health Care app, developed by Youssef. This app is provided as a free service to assist in clinic management for small to medium-sized practices. By using this app, you agree to the data practices outlined below.
+PRIVACY NOTICE
 
-Information Collection and Use
-The Health Care app uses Firebase Firestore to store information entered by users to support clinic management features, such as scheduling and record-keeping. This data is stored securely on Firebase servers and includes information like appointment details and patient records. We do not collect personally identifiable information unless necessary for the app’s functionality, and this data is only used for its intended purpose.
 
-Firebase Firestore
-We use Firebase Firestore to enable secure, cloud-based data storage. Firebase complies with major data protection regulations (such as GDPR and CCPA) and employs industry-standard security practices. Data stored on Firebase is protected and encrypted to ensure privacy and security. However, please note that Firebase may collect some technical data (such as usage metrics) for analytical purposes.
+This privacy notice for Doctor Mate ("we," "us," or "our") describes how we collect, use, store, and share ("process") your information when you use our mobile application and related services (collectively, the "Services").
 
-Cookies
-The Health Care app itself does not use cookies. However, Firebase may collect data through cookies or similar technologies for analytics and app performance improvement.
+If you have any questions or concerns about this notice, please contact us at yousefadel8070@gmail.com.
 
-Security
-We prioritize your data’s security and work to protect it through commercially reasonable means. However, please be aware that no method of electronic storage is 100% secure. Firebase’s data encryption and compliance help mitigate risks, but absolute security cannot be guaranteed.
+SUMMARY OF KEY POINTS
+- What personal information do we collect? We collect information you provide, such as contact details, and data related to clinic operations, including patient and appointment records.
+- Do we process sensitive personal information? No, we do not process sensitive personal information.
+- How do we process your information? We use the information to provide and improve our Services, ensure security, and comply with applicable laws.
+- What are your rights? Depending on your location, you may have rights to access, update, or delete your data.
 
-Children’s Privacy
-This app is not designed for children under 13, and we do not knowingly collect data from users under this age. If such data is identified, we will promptly delete it from our systems.
+1. WHAT INFORMATION DO WE COLLECT?
+Information You Provide to Us
+We collect information you voluntarily provide when using the app, such as:
+- Account Information: Name, email address, and clinic details.
+- Patient Records: Names, medical history, appointment dates, and other related data provided for clinic management.
 
-Changes to This Privacy Policy
-We may occasionally update this Privacy Policy. Changes will be posted on this page, and users are encouraged to review it periodically.
+All personal information provided must be accurate, complete, and up to date.
 
-Contact Us
-If you have questions or feedback about this Privacy Policy, please contact us:
+Information Collected Automatically
+When using the app, we may automatically collect certain data, such as:
+- Device Information: IP address, device type, operating system, and app usage data.
+- Analytics Data: Information about app performance to improve user experience.
 
-Email: yousefadel8070@gmail.com
+We do not collect identifiable sensitive personal information.
+
+2. HOW DO WE PROCESS YOUR INFORMATION?
+We use your information to:
+- Provide, manage, and improve clinic operations through our app.
+- Secure the app and prevent unauthorized access.
+- Respond to user inquiries and provide support.
+- Comply with legal and regulatory requirements.
+
+3. WHEN AND WITH WHOM DO WE SHARE YOUR INFORMATION?
+We may share your information only in the following circumstances:
+- Service Providers: With trusted third parties that provide support services (e.g., hosting or analytics).
+- Legal Compliance: When required by law, such as responding to court orders or legal processes.
+
+We do not sell or share user data for marketing purposes.
+
+4. DO WE USE COOKIES AND TRACKING TECHNOLOGIES?
+No cookies or similar tracking technologies are used in the app.
+
+5. HOW DO WE HANDLE YOUR DATA?
+Your data is processed securely within our systems. For data hosted externally (e.g., cloud services), we use third-party providers compliant with industry security standards.
+
+6. HOW LONG DO WE KEEP YOUR INFORMATION?
+We retain your information only as long as necessary to provide our Services or as required by law. When no longer needed, data is securely deleted.
+
+7. DO WE COLLECT INFORMATION FROM MINORS?
+Our Services are not intended for individuals under 18. We do not knowingly collect data from minors. If we discover such information, we will promptly delete it.
+
+8. WHAT ARE YOUR RIGHTS?
+Depending on your location, you may have the right to:
+- Access your data.
+- Update or correct inaccurate information.
+- Request data deletion.
+
+To exercise your rights, contact us at [your email address].
+
+9. DO WE MAKE UPDATES TO THIS NOTICE?
+We may update this notice as necessary to stay compliant with applicable laws. The updated version will be effective upon posting.
+
+10. HOW CAN YOU CONTACT US?
+If you have any questions or concerns about this notice, please contact us:
+- Email:yousefadel8070@gmail.com
+
+
